@@ -1,12 +1,14 @@
-# flutter_app
+# Murrieta Mesa High School Coding Club
 
-A new Flutter application.
+A new Flutter chat application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a chat project using Flutter.  
+We will be following the documentation found here:
+- [Building a chat app with flutter and firebase](https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)

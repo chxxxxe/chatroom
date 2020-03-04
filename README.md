@@ -4,9 +4,11 @@ A new Flutter chat application.
 
 ## Getting Started
 
-This project is a starting point for a chat project using Flutter.  
-We will be following the documentation found here:
+This project is a starting point for a chat project using Flutter.  We will use the documentation from https://medium.com.
 - [Building a chat app with flutter and firebase](https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+- [Using provider to separate Logic and Widgets(screens)](https://pub.dev/packages/provider#-readme-tab-)
+- [ListView to make chat scrollable](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+- [Navigate using named routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 
 A few resources to get you started:
 
